@@ -20,7 +20,7 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 ===========================================================================
 */
 
-/* Xbox version of sys_main by faithvoid. Heavy WIP, will not work yet! */
+/* Xbox version of sys_win32 by faithvoid. Heavy WIP, will not work yet! */
 
 // Use EnumProcesses() with Windows XP compatibility
 #define PSAPI_VERSION 1
