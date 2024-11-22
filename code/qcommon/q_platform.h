@@ -20,6 +20,8 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 ===========================================================================
 */
 
+/* Testing Xbox platform functionality, still heavily WIP! */
+
 #ifndef __Q_PLATFORM_H
 #define __Q_PLATFORM_H
 
