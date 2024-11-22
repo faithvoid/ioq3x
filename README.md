@@ -1,3 +1,12 @@
+# ioq3x
+An experimental ioquake3 port for the original Xbox using NXDK libraries.
+
+## TODO:
+- Implement PBGL renderer.
+- Modify sys_main_xbox, sys_xbox & sdl_input_xbox to be compatible with the original Xbox.
+- Generate NXDK-compatible Makefile.
+
+# Original Readme
 ![Build](https://github.com/ioquake/ioq3/workflows/Build/badge.svg)
 
                    ,---------------------------------------.
