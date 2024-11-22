@@ -107,7 +107,7 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
 #define DLL_EXT ".dll"
 
-#elif defined(_WIN32) || defined(__WIN32__)
+#elif defined(_WIN32) || defined(__WIN32__) || defined(__XBOX__)
 
 #undef QDECL
 #define QDECL __cdecl
